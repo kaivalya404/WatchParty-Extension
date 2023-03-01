@@ -66,3 +66,4 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 // Commit 5
 // Commit 6
 // Commit 7
+// Commit 8
