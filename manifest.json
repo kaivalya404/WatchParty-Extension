@@ -4,7 +4,7 @@
     "version": "0.1",
 
     "action": {
-        "default_title": "Do we need a description eh?",
+        "default_title": "A WatchPartyExtension to Synchronize Youtube Video Playback",
         "default_popup": "popup.html"
         
       },
